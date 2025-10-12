@@ -11,6 +11,6 @@ W związku z moją niedyspozycją proszę o przejrzenie tych prezentacji samod
 - Introduction to Kotlin: https://forms.gle/ZxkhuSErHPZrUCoeA
 - Object-Oriented Programming: https://forms.gle/oaMuRLSxrPS3zB187
 
-## Zadanie domowe
+## Małe zadanie
 
 https://classroom.github.com/a/4PeeCATD

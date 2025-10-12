@@ -4,8 +4,8 @@
 Nie jest obowiązkowa :). Slajdy i notatki będą na bieżąco dodawane do tego repozytorium.
 ## Quizy (10/100)
 9 quizów, nie będą oceniane odpowiedzi, a jedynie sam fakt wypełnienia quizu (Niemniej polecam poświęcić im chwilę, pomagają lepiej zrozumieć omawiane tematy).
-## Zadania domowe (30/100)
-6 małych zadań domowych, średnio co 2 tygodnie. Ocenianie na podstawie testów automatycznych i jakości kodu.
+## Małe zadania (30/100)
+6 małych zadań, średnio co 2 tygodnie. Ocenianie na podstawie testów automatycznych i jakości kodu.
 ## Autorski projekt (60/100)
 W dwóch iteracjach. Wstępnie z poniższym terminarzem:
 - do 4. zajęć (27.10.25) - składanie ogólnych zamysłów projektu wraz ze wstępną listą funkcjonalności planowanych dla pierwszej i drugiej iteracji. Ten etap nie będzie oceniany, ale jest wymagany.
