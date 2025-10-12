@@ -8,6 +8,9 @@ Na pierwszych dwóch laboratoriach planowane było przerobienie prezentacji:
 W związku z moją niedyspozycją proszę o przejrzenie tych prezentacji samodzielnie. Trudniejsze i ciekawsze zagadnienia zostaną omówione na 2. laboratorium.
 ## Quizy
 
+- Introduction to Kotlin: https://forms.gle/ZxkhuSErHPZrUCoeA
+- Object-Oriented Programming: https://forms.gle/oaMuRLSxrPS3zB187
+
 ## Zadanie domowe
 
 https://classroom.github.com/a/4PeeCATD
