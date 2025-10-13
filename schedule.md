@@ -28,4 +28,5 @@
 
 ## Godziny oddawania
 Termin wypełniania quizów to początek zajęć (będą omawiane na wymienionych zajęciach).
+
 Małe zadania i etapy projektu można oddawać do końca dnia.
