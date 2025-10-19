@@ -1,14 +1,14 @@
 # Rozkład jazdy
 ## 1. (06.10.25) Introduction to Kotlin
 ## 2. (13.10.25) Object-Oriented Programming
-## 3. (20.10.25) Generics
+## 3. (20.10.25) Generics & Collections
 - Termin oddania [pierwszego małego zadania](https://classroom.github.com/a/4PeeCATD)
-## 4. (27.10.25) Collections
+## 4. (27.10.25) Functional programming
 - Termin oddania ogólnego zamysłu autorskiego projektu
 - Termin wypełnienia [trzech](https://forms.gle/ZxkhuSErHPZrUCoeA) [pierwszych](https://forms.gle/oaMuRLSxrPS3zB187) quizów
-## 5. (03.11.25) Functional programming
+## 5. (03.11.25) Ktor 1
 - Termin oddania drugiego małego zadania
-## 6. (13.11.25) Compose Multiplatform 1
+## 6. (13.11.25) Ktor 2 & Compose Multiplatform 1
 ## 7. (17.11.25) Compose Multiplatform 2
 - Termin oddania trzeciego małego zadania
 ## 8. (24.11.25) Parallel and concurrent programming
