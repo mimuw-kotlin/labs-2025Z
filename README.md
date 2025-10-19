@@ -1,5 +1,9 @@
 # Programowanie w Kotlinie 2025
 
+## [Zasady zaliczania](grading.md)
+
+## [Harmonogram](schedule.md)
+
 ## Konsultacje
 Zapraszam do [umawiania](https://calendar.app.google/zkaVvXPpA8GFGwwk7) zdalnych spotkań w razie jakichkolwiek potrzeb związanych z przedmiotem.
 
