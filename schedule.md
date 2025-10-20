@@ -7,18 +7,18 @@
 - Termin wypełnienia [trzech](https://forms.gle/ZxkhuSErHPZrUCoeA) [pierwszych](https://forms.gle/oaMuRLSxrPS3zB187) [quizów](https://forms.gle/37sNztP8avfi7fTa6)
 ## 5. (03.11.25) Ktor 1
 - Termin oddania ogólnego zamysłu autorskiego projektu
-- Termin oddania drugiego małego zadania
+- Termin oddania [drugiego małego zadania](https://classroom.github.com/a/6isMJ4qN)
 ## 6. (13.11.25) Ktor 2 & Compose Multiplatform 1
 ## 7. (17.11.25) Compose Multiplatform 2
 - Termin oddania trzeciego małego zadania
 ## 8. (24.11.25) Parallel and concurrent programming
-- Termin oddania czwartego małego zadania
 ## 9. (01.12.25) Asynchronous programming
+- Termin oddania czwartego małego zadania
 - Termin oddania pierwszej części autorskiego projektu
 - Termin wypełnienia [trzech](https://forms.gle/QfMfG9JJNY8K77ch9) kolejnych quizów
 ## 10. (08.12.25) Build systems
-- Termin oddania piątego małego zadania
 ## 11. (15.12.25) JVM and the Kotlin compiler
+- Termin oddania piątego małego zadania
 ## 12. (12.01.25) Reflection
 - Termin wypełnienia trzech ostatnich quizów
 - Termin oddania szóstego małego zadania

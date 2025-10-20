@@ -7,8 +7,9 @@
 ## Konsultacje
 Zapraszam do [umawiania](https://calendar.app.google/zkaVvXPpA8GFGwwk7) zdalnych spotkań w razie jakichkolwiek potrzeb związanych z przedmiotem.
 
-## Małe zadania 
+## Małe zadania
 1. [Interpreter](https://classroom.github.com/a/4PeeCATD)
+2. [BST](https://classroom.github.com/a/6isMJ4qN)
 
 ## Quizy
 1. [Introduction to Kotlin](https://forms.gle/S3fxbL7gdzSTALcR8)
