@@ -5,7 +5,7 @@
 - Termin oddania [pierwszego małego zadania](https://classroom.github.com/a/4PeeCATD)
 ## 4. (27.10.25) Functional programming
 - Termin oddania ogólnego zamysłu autorskiego projektu
-- Termin wypełnienia [trzech](https://forms.gle/ZxkhuSErHPZrUCoeA) [pierwszych](https://forms.gle/oaMuRLSxrPS3zB187) quizów
+- Termin wypełnienia [trzech](https://forms.gle/ZxkhuSErHPZrUCoeA) [pierwszych](https://forms.gle/oaMuRLSxrPS3zB187) [quizów](https://forms.gle/37sNztP8avfi7fTa6)
 ## 5. (03.11.25) Ktor 1
 - Termin oddania drugiego małego zadania
 ## 6. (13.11.25) Ktor 2 & Compose Multiplatform 1
@@ -15,7 +15,7 @@
 - Termin oddania czwartego małego zadania
 - Termin oddania pierwszej części autorskiego projektu
 ## 9. (01.12.25) Asynchronous programming
-- Termin wypełnienia trzech kolejnych quizów
+- Termin wypełnienia [trzech](https://forms.gle/QfMfG9JJNY8K77ch9) kolejnych quizów
 ## 10. (08.12.25) Build systems
 - Termin oddania piątego małego zadania
 ## 11. (15.12.25) JVM and the Kotlin compiler
