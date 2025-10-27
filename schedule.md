@@ -15,7 +15,7 @@
 ## 9. (01.12.25) Asynchronous programming
 - Termin oddania czwartego małego zadania
 - Termin oddania pierwszej części autorskiego projektu
-- Termin wypełnienia [trzech](https://forms.gle/QfMfG9JJNY8K77ch9) kolejnych quizów
+- Termin wypełnienia [trzech](https://forms.gle/QfMfG9JJNY8K77ch9) [kolejnych](https://forms.gle/Bk2FW6MPkVD2T6KH6) quizów
 ## 10. (08.12.25) Build systems
 ## 11. (15.12.25) JVM and the Kotlin compiler
 - Termin oddania piątego małego zadania
