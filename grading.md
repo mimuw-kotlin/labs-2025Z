@@ -8,9 +8,9 @@ Nie jest obowiązkowa :). Slajdy i notatki będą na bieżąco dodawane do tego
 6 małych zadań, średnio co 2 tygodnie. Ocenianie na podstawie testów automatycznych i jakości kodu.
 ## Autorski projekt (60/100)
 W dwóch iteracjach. Wstępnie z poniższym terminarzem:
-- do 4. zajęć (27.10.25) - składanie ogólnych zamysłów projektu wraz ze wstępną listą funkcjonalności planowanych dla pierwszej i drugiej iteracji. Ten etap nie będzie oceniany, ale jest wymagany.
-- do 8. zajęć (24.11.25) - pierwsza iteracja. Proponowałbym, żeby był to *Minimum Viable Product*.
-- do 12. zajęć (12.01.26) - druga iteracja. Dopracowywanie projektu i wszystkie *bells and whistles*, które będziecie chcieli dodać.
+- do 5. zajęć (03.11.25) - składanie ogólnych zamysłów projektu wraz ze wstępną listą funkcjonalności planowanych dla pierwszej i drugiej iteracji. Ten etap nie będzie oceniany, ale jest wymagany.
+- do 9. zajęć (01.12.25) - pierwsza iteracja. Proponowałbym, żeby był to *Minimum Viable Product*.
+- do 13. zajęć (19.01.26) - druga iteracja. Dopracowywanie projektu i wszystkie *bells and whistles*, które będziecie chcieli dodać.
 
 Obie iteracje będą oceniane na (30/100) punktów. Ocena będzie oparta na *złożoności* projektu (czyt. liczbie i "ciekawości" funkcjonalności) oraz jakości kodu. W przypadku oddania projektu do tygodnia przed terminem będzie możliwość wcześniejszej (wstępnej) oceny i wprowadzenia poprawek.
 
