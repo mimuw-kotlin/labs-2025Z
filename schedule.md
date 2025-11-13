@@ -8,8 +8,8 @@
 ## 5. (03.11.25) Ktor 1
 - Termin oddania ogólnego zamysłu autorskiego projektu
 - Termin oddania [drugiego małego zadania](https://classroom.github.com/a/6isMJ4qN)
-## 6. (13.11.25) Ktor 2 & Compose Multiplatform 1
-## 7. (17.11.25) Compose Multiplatform 2
+## 6. (13.11.25) Compose Multiplatform 
+## 7. (17.11.25) Ktor + Compose + SQLDelight
 - Termin oddania [trzeciego małego zadania](https://classroom.github.com/a/R-0yZ-TB)
 ## 8. (24.11.25) Parallel and concurrent programming
 ## 9. (01.12.25) Asynchronous programming

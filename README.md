@@ -13,8 +13,8 @@ Zapraszam do [umawiania](https://calendar.app.google/zkaVvXPpA8GFGwwk7) zdalnych
 3. [Generics](https://docs.google.com/presentation/d/1R7n5plsn5caGpYrI9omxbEuX6pazjDj2d9X0IQ2AdLg/edit?usp=sharing) & [Collections](https://docs.google.com/presentation/d/1o0c25j-5UKE1Qw94W26numHxMU_xL0uFchCWJfaOuUc/edit?usp=sharing)
 4. [Functional programming](https://docs.google.com/presentation/d/19C10TZM1kT0AzEjqSfLZs1_HC3Ye0E9h6muVDikl4uo/edit?usp=sharing)
 5. [Ktor](https://ktor.io/learn/)
-6. [Ktor](https://ktor.io/learn/) / [Compose Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-create-first-app.html)
-7. [Compose Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-create-first-app.html)
+6. [Compose Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-create-first-app.html)
+7. [Ktor + Compose + SQLDelight](https://kotlinlang.org/docs/multiplatform/multiplatform-ktor-sqldelight.html)
 
 ## Małe zadania
 1. [Interpreter](https://classroom.github.com/a/4PeeCATD)
