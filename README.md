@@ -20,6 +20,7 @@ Zapraszam do [umawiania](https://calendar.app.google/zkaVvXPpA8GFGwwk7) zdalnych
 1. [Interpreter](https://classroom.github.com/a/4PeeCATD)
 2. [BST](https://classroom.github.com/a/6isMJ4qN)
 3. [Origami](https://classroom.github.com/a/R-0yZ-TB)
+4. [Interpreter Server](https://classroom.github.com/a/zL4R8UQ9)
 
 ## Quizy
 1. [Introduction to Kotlin](https://forms.gle/S3fxbL7gdzSTALcR8)

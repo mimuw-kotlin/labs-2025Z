@@ -13,7 +13,7 @@
 - Termin oddania [trzeciego małego zadania](https://classroom.github.com/a/R-0yZ-TB)
 ## 8. (24.11.25) Parallel and concurrent programming
 ## 9. (01.12.25) Asynchronous programming
-- Termin oddania czwartego małego zadania
+- Termin oddania [czwartego małego zadania](https://classroom.github.com/a/zL4R8UQ9) (termin przedłużony do 02.12)
 - Termin oddania pierwszej części autorskiego projektu
 - Termin wypełnienia [trzech(collections)](https://forms.gle/QfMfG9JJNY8K77ch9) [kolejnych(functional)](https://forms.gle/Bk2FW6MPkVD2T6KH6) quizów
 ## 10. (08.12.25) Build systems
