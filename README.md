@@ -15,6 +15,7 @@ Zapraszam do [umawiania](https://calendar.app.google/zkaVvXPpA8GFGwwk7) zdalnych
 5. [Ktor](https://ktor.io/learn/)
 6. [Compose Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-create-first-app.html)
 7. [Ktor + Compose + SQLDelight](https://kotlinlang.org/docs/multiplatform/multiplatform-ktor-sqldelight.html)
+8. [Parallel & Concurrent Programming](https://docs.google.com/presentation/d/1n8rTULotZHei3ktajyupwRpKdPDACBAZeBo2GqwYhHY/edit?usp=sharing)
 
 ## Małe zadania
 1. [Interpreter](https://classroom.github.com/a/4PeeCATD)
@@ -27,5 +28,9 @@ Zapraszam do [umawiania](https://calendar.app.google/zkaVvXPpA8GFGwwk7) zdalnych
 2. [Object-oriented programming](https://forms.gle/jcBA8Mbv5LHCc57d7)
 3. [Generics](https://forms.gle/37sNztP8avfi7fTa6) & [Collections](https://forms.gle/QfMfG9JJNY8K77ch9)
 4. [Functional programming](https://forms.gle/Bk2FW6MPkVD2T6KH6)
+5. /-/
+6. /-/
+7. /-/
+8. [Parallel & Concurrent Programming](https://forms.gle/871zNqokY4k7rVXC9)
 
 
