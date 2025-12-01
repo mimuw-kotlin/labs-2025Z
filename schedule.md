@@ -20,7 +20,7 @@
 ## 11. (15.12.25) JVM and the Kotlin compiler
 - Termin oddania piątego małego zadania
 ## 12. (12.01.25) Reflection
-- Termin wypełnienia trzech ostatnich quizów
+- Termin wypełnienia [trzech(async)](https://forms.gle/hMA76sufc62vMB5t6) ostatnich quizów
 - Termin oddania szóstego małego zadania
 ## 13. (19.01.25) Exceptions & Testing
 - Termin oddania drugiej części autorskiego projektu
