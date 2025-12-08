@@ -17,6 +17,7 @@ Zapraszam do [umawiania](https://calendar.app.google/zkaVvXPpA8GFGwwk7) zdalnych
 7. [Ktor + Compose + SQLDelight](https://kotlinlang.org/docs/multiplatform/multiplatform-ktor-sqldelight.html)
 8. [Parallel & Concurrent Programming](https://docs.google.com/presentation/d/1n8rTULotZHei3ktajyupwRpKdPDACBAZeBo2GqwYhHY/edit?usp=sharing)
 9. [Asynchronous Programming](https://docs.google.com/presentation/d/1WT0kVeLpZ8-cS1211oXVvjPesgPgTJxIuIJHkU6-49k/edit?usp=sharing)
+10. [Build systems](https://docs.google.com/presentation/d/1Plt2cpm-GRzxHt1Vu8C90FWnuSYToucWXPLaJKlBRMc/edit?usp=sharing)
 
 ## Małe zadania
 1. [Interpreter](https://classroom.github.com/a/4PeeCATD)
@@ -34,5 +35,6 @@ Zapraszam do [umawiania](https://calendar.app.google/zkaVvXPpA8GFGwwk7) zdalnych
 7. /-/
 8. [Parallel & Concurrent Programming](https://forms.gle/871zNqokY4k7rVXC9)
 9. [Asynchronous Programming](https://forms.gle/hMA76sufc62vMB5t6)
+10. [Build systems](https://forms.gle/PwVKWuRSPt1sscu97)
 
 
