@@ -18,9 +18,10 @@
 - Termin wypełnienia [trzech(collections)](https://forms.gle/QfMfG9JJNY8K77ch9) [kolejnych(functional)](https://forms.gle/Bk2FW6MPkVD2T6KH6) [quizów(p&c)](https://forms.gle/871zNqokY4k7rVXC9)
 ## 10. (08.12.25) Build systems
 ## 11. (15.12.25) JVM and the Kotlin compiler
-- Termin oddania piątego małego zadania
+- ~~Termin oddania piątego małego zadania~~ (Przełożone)
 ## 12. (12.01.25) Reflection
 - Termin wypełnienia [trzech(async)](https://forms.gle/hMA76sufc62vMB5t6) [ostatnich(build)](https://forms.gle/PwVKWuRSPt1sscu97) quizów
+- Termin oddania piątego małego zadania
 - Termin oddania szóstego małego zadania
 ## 13. (19.01.25) Exceptions & Testing
 - Termin oddania drugiej części autorskiego projektu
