@@ -21,8 +21,8 @@
 - ~~Termin oddania piątego małego zadania~~ (Przełożone)
 ## 12. (12.01.25) Reflection
 - Termin wypełnienia [trzech(async)](https://forms.gle/hMA76sufc62vMB5t6) [ostatnich(build)](https://forms.gle/PwVKWuRSPt1sscu97) [quizów(compiler)](https://forms.gle/SLHnR51rEFs4CHV5A)
-- Termin oddania piątego małego zadania
-- Termin oddania szóstego małego zadania
+- Termin oddania [piątego małego zadania](https://classroom.github.com/a/lTjdFlX4)
+- Termin oddania [szóstego małego zadania](https://classroom.github.com/a/8qGkNXvD)
 ## 13. (19.01.25) Exceptions & Testing
 - Termin oddania drugiej części autorskiego projektu
 
