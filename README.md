@@ -19,6 +19,8 @@ Zapraszam do [umawiania](https://calendar.app.google/zkaVvXPpA8GFGwwk7) zdalnych
 9. [Asynchronous Programming](https://docs.google.com/presentation/d/1WT0kVeLpZ8-cS1211oXVvjPesgPgTJxIuIJHkU6-49k/edit?usp=sharing)
 10. [Build systems](https://docs.google.com/presentation/d/1Plt2cpm-GRzxHt1Vu8C90FWnuSYToucWXPLaJKlBRMc/edit?usp=sharing)
 11. [JVM & Kotlin Compiler](https://docs.google.com/presentation/d/11mYc_tt2c7qw72i8gaQ9vePTcd0F0LbZCS6ep9PFG28/edit?usp=sharing)
+12. [Reflection](https://docs.google.com/presentation/d/1hZTaQ1gdStte2aeQU78UmpVzpKErdeOCRQPOYH2p3DI/edit?usp=sharing)
+13. [Exceptions](https://docs.google.com/presentation/d/1_F9CVHdbXoRagLUpBGjpwS9DDbzB2K-Cfv4Pz5qKza4/edit?usp=sharing) & [Testing](https://docs.google.com/presentation/d/1sAzzlOs4H3MYEUUYb5NnmAOJsO9YQSss4YAywZaNDJw/edit?usp=sharing)
 
 ## Małe zadania
 1. [Interpreter](https://classroom.github.com/a/4PeeCATD)
